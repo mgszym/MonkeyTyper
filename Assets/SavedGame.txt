@@ -1,0 +1,11 @@
+score 0
+miss 3
+time 3.31448
+level 2
+size 0
+font 1
+word wing 1496.05 200
+word horror 1427.25 800
+word snub 978.023 300
+word lay 520.795 200
+word mat 64.8002 600
